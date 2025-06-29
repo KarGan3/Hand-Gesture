@@ -13,3 +13,11 @@ pip install opencv-python mediapipe numpy
 
 
 run this to create a environoment
+
+
+
+
+git init
+git add 
+git commit -m "basic gestures"
+git push -u origin main
